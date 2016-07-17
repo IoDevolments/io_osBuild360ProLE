@@ -19,4 +19,5 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 # Logs
-*
+*.log
+*.bin
